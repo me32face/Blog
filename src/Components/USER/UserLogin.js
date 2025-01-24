@@ -7,7 +7,7 @@ function UserLogin() {
 
   return (
     <div className="align-items-center container d-flex justify-content-center vh-100">
-        <div className='card p-4 shadow-lg custom-card-size'>
+        <div className='card p-4 shadow-lg UserLogin-custom-card-size'>
             <nav className='mb-3'>
                 <ul class="nav justify-content-end nav pb-2">
                     <li class="nav-item">
