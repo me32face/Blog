@@ -1,2 +1,1 @@
-//User Registration PAge
-
+//User Registration Page
