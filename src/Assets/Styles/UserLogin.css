@@ -1,0 +1,17 @@
+.custom-card-size{
+    width: 900px;
+}
+
+.nav-link.HomeBtn:hover{
+    background-color: darkblue !important;
+}
+
+.nav-link.RegisterBtn:hover{
+    background-color: rgb(109, 151, 18) !important;
+    color: white !important;
+}
+
+.ForgotPwd:hover{
+    cursor: pointer;
+    color: black !important;
+}
